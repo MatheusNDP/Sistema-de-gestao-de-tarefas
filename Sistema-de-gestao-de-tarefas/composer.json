@@ -1,0 +1,9 @@
+{
+    "name": "laboratorio/sistema-de-gestao-de-tarefas",
+    "autoload": {
+        "psr-4": {
+            "Laboratorio\\SistemaDeGestaoDeTarefas\\": "src/"
+        }
+    },
+    "require": {}
+}
