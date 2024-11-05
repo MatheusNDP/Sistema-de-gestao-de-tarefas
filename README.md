@@ -1,26 +1,37 @@
 # Sistema de Gerenciamento de Tarefas
 
-Este projeto é um sistema de gerenciamento de tarefas desenvolvido em PHP. Seu objetivo é auxiliar indivíduos e equipes na organização de suas atividades diárias, promovendo produtividade e facilitando o acompanhamento de pendências.
+Um sistema desenvolvido em **PHP** para auxiliar na organização de atividades diárias, promovendo produtividade e facilitando o acompanhamento de pendências para indivíduos e pequenas equipes.
 
-## Proposta
+---
 
-O sistema de gerenciamento de tarefas oferece uma plataforma simples e eficiente para criar, editar e acompanhar tarefas. Ideal para pessoas que buscam melhorar sua organização pessoal ou para pequenas equipes que precisam de uma ferramenta acessível para gestão de atividades.
+## 📜 Proposta
 
-## Recursos Principais
+O **Sistema de Gerenciamento de Tarefas** oferece uma plataforma simples e eficiente para criação, edição e monitoramento de atividades. Ideal para quem busca melhorar sua organização pessoal ou para pequenas equipes que precisam de uma ferramenta acessível de gestão.
 
-- **Criação de Tarefas**: Adicione novas tarefas com descrições e prioridades.
-- **Listagem de Tarefas**: Visualize todas as tarefas em uma lista organizada.
-- **Edição e Atualização**: Edite detalhes de uma tarefa a qualquer momento.
-- **Marcação de Status**: Marque tarefas como "Concluídas" ou "Pendentes".
-- **Filtro por Prioridade e Data**: Visualize rapidamente tarefas de alta prioridade.
+---
 
-## Público-Alvo
+## 🌟 Recursos Principais
 
-Este sistema é voltado tanto para usuários individuais quanto para pequenas equipes que buscam uma maneira simples e direta de gerenciar atividades e garantir o cumprimento de prazos.
+- **📝 Criação de Tarefas**: Adicione novas tarefas com descrições e prioridades.
+- **📋 Listagem de Tarefas**: Visualize todas as tarefas em uma lista organizada.
+- **✏️ Edição e Atualização**: Edite detalhes de uma tarefa a qualquer momento.
+- **✅ Marcação de Status**: Marque tarefas como "Concluídas" ou "Pendentes".
+- **🔍 Filtro por Prioridade e Data**: Visualize rapidamente tarefas de alta prioridade.
 
-## Tecnologias Utilizadas
+---
+
+## 🎯 Público-Alvo
+
+Este sistema é ideal para:
+- Usuários individuais que buscam melhorar a organização e produtividade.
+- Pequenas equipes que precisam de uma maneira simples e eficaz de acompanhar atividades e cumprir prazos.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
 
 - **Linguagem**: PHP
 - **Banco de Dados**: MySQL
 - **Front-end**: HTML, CSS e JavaScript (opcionalmente, com Bootstrap para responsividade)
 
+---
