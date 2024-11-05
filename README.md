@@ -35,3 +35,9 @@ Este sistema é ideal para:
 - **Front-end**: HTML, CSS e JavaScript (opcionalmente, com Bootstrap para responsividade)
 
 ---
+
+## 🧩 Diagrama ER do Banco de Dados
+
+![Modelo Lógico](https://github.com/user-attachments/assets/e60d7863-9e55-4f8b-928b-1919abff97eb)
+
+---
