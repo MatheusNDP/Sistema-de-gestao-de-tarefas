@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Laboratorio\\SistemaDeGestaoDeTarefas\\' => array($baseDir . '/src'),
+    'Matheus\\SistemaDeGestaoDeTarefas\\' => array($baseDir . '/src'),
 );

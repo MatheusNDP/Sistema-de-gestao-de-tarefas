@@ -1,9 +1,15 @@
 {
-    "name": "laboratorio/sistema-de-gestao-de-tarefas",
+    "name": "matheus/sistema-de-gestao-de-tarefas",
     "autoload": {
         "psr-4": {
-            "Laboratorio\\SistemaDeGestaoDeTarefas\\": "src/"
+            "Matheus\\SistemaDeGestaoDeTarefas\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "MatheusNDP",
+            "email": "matheusnunesdepaula33@gmail.com"
+        }
+    ],
     "require": {}
 }
