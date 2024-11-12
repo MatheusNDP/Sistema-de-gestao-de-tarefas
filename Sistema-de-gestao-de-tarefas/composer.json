@@ -1,8 +1,10 @@
 {
-    "name": "matheus/sistema-de-gestao-de-tarefas",
+    "name": "mathe/sistema-de-gestao-de-tarefas",
+    "description": "Sistema de gerenciamento de tarefas com PHP.",
+    "type": "project",
     "autoload": {
         "psr-4": {
-            "Matheus\\SistemaDeGestaoDeTarefas\\": "src/"
+            "Mathe\\SistemaDeGestaoDeTarefas\\": "src/"
         }
     },
     "authors": [
@@ -11,5 +13,10 @@
             "email": "matheusnunesdepaula33@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "ext-pdo": "*"
+    },
+    "scripts": {
+        "start": "php -S localhost:8000 -t public"
+    }
 }
