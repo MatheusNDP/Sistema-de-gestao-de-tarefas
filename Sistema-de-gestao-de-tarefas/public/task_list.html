@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Tarefas</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container mt-5">
+    <h2>Lista de Tarefas</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Título</th>
+                <th>Descrição</th>
+                <th>Usuário ID</th>
+                <th>Status</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Exemplo de linha de tarefa; substituir pelo código PHP -->
+            <tr>
+                <td>1</td>
+                <td>Tarefa Exemplo</td>
+                <td>Descrição da tarefa</td>
+                <td>1</td>
+                <td>Pendente</td>
+                <td>
+                    <a href="/tasks/1/edit" class="btn btn-sm btn-warning">Editar</a>
+                    <a href="/tasks/1/delete" class="btn btn-sm btn-danger" onclick="return confirm('Tem certeza que deseja excluir esta tarefa?');">Excluir</a>
+                </td>
+            </tr>
+            <!-- Fim do exemplo -->
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

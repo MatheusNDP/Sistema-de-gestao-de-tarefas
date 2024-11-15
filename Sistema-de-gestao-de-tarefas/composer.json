@@ -1,0 +1,25 @@
+{
+    "name": "mathe/sistema-de-gestao-de-tarefas",
+    "description": "Sistema de gerenciamento de tarefas com PHP.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MatheusNDP",
+            "email": "matheusnunesdepaula33@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*"
+    },
+    "scripts": {
+        "start": "php -S localhost:8000 -t public"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
